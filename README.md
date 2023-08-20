@@ -1,5 +1,5 @@
 # WallStUnlimited
 
 ## Quick Start
-- Clone repo
-- Run **helloTk.py**
+1. Clone repo
+2. Run **helloTk.py**
