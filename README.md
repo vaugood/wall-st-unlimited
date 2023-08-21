@@ -1,5 +1,5 @@
 # WallStUnlimited
+An unofficial front end to SimplyWall.St powered by Python and Tkinter.
 
 ## Quick Start
-1. Clone repo
-2. Run **helloTk.py**
+Run **helloTk.py**.
