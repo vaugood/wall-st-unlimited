@@ -1,5 +1,4 @@
 import tkinter as tk
-from tkinter import ttk
 import wallst as ws
 
 area_statements = []
